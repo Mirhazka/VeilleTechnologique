@@ -17,10 +17,14 @@ Bienvenue dans mon dépôt de **veille technologique**. Vous trouverez ici une s
 
 ## 🗂️ Structure du dépôt
 
-Le dépôt est organisé par année, mois et semaine :  
-📁 2025/  
-└── 📁 05-mai/  
-└── 📄 semaine-22.md  
+Le dépôt est organisé comme suit :
+
+- 📁 **Ressources/**
+  - 📁 **Images/**
+  - 📁 **Template/**
+    - 📄 `semaine-XX.md` (fichier modèle pour les veilles hebdomadaires)
+- 📁 **2025/**
+  - 📄 `semaine-22.md` (veille de la semaine 22 de 2025)
 
 Chaque fichier contient :
 
