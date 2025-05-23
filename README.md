@@ -6,19 +6,21 @@ Bienvenue dans mon dépôt de **veille technologique**. Vous trouverez ici une s
 
 ## 🎯 Objectifs
 
-- Maintenir une veille régulière (1 fois par semaine)
-- Développer une culture technique continue
-- Partager des synthèses accessibles et documentées
+- Maintenir une veille régulière (1 fois par semaine)  
+- Collecter et agréger les informations via **Feedly**  
+- Utiliser des outils d’**intelligence artificielle** pour synthétiser et analyser les contenus  
+- Développer une culture technique continue  
+- Partager des synthèses accessibles et documentées  
 - Créer une trace publique et professionnelle de ma progression
 
 ---
 
 ## 🗂️ Structure du dépôt
 
-Le dépôt est organisé par année, mois et semaine :
-📁 2025/
-└── 📁 05-mai/
-└── 📄 semaine-21.md
+Le dépôt est organisé par année, mois et semaine :  
+📁 2025/  
+└── 📁 05-mai/  
+└── 📄 semaine-21.md  
 
 Chaque fichier contient :
 
